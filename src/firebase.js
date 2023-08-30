@@ -3,12 +3,12 @@ import 'firebase/compat/firestore';
 
 const firebaseConfig = {
     apiKey: "",
-    authDomain: "tinder-clone-a4ee8.firebaseapp.com",
-    projectId: "tinder-clone-a4ee8",
-    storageBucket: "tinder-clone-a4ee8.appspot.com",
-    messagingSenderId: "788352286724",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
     appId: "",
-    measurementId: "G-PQFTZWMQ2F",
+    measurementId: "",
   };
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
